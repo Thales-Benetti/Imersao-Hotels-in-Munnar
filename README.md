@@ -13,3 +13,7 @@ Fonte: Kaggle, MakeMyTrip
 ## Primeira Visualização do arquivo
 
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/5a3074de-8368-4131-a503-21d511695b17)
+
+## Pré Visualização no Power Bi com pré-tratamento dos dados
+
+![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/7043a419-6895-480f-949e-dbfd7b211099)
