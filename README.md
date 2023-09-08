@@ -10,4 +10,5 @@ Fonte: Kaggle, MakeMyTrip
 - Numpy
 - Matplotlib
 - Seaborn
+## Primeira Visualização do arquivo
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/5a3074de-8368-4131-a503-21d511695b17)
