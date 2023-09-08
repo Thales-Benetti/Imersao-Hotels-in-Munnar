@@ -17,3 +17,9 @@ Fonte: Kaggle, MakeMyTrip
 ## Pré Visualização no Power Bi com pré-tratamento dos dados
 
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/7043a419-6895-480f-949e-dbfd7b211099)
+
+## Python-> Visão geral do dataset
+in[0]
+df = pd.read_csv('/kaggle/input/hotels-in-munnar-kerala/munnar.csv')
+df.head()
+![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/c7b4cb19-74bc-429f-b945-53ef5d7d3d20)
