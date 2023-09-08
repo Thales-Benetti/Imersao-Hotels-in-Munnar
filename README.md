@@ -19,4 +19,8 @@ Fonte: Kaggle, MakeMyTrip
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/7043a419-6895-480f-949e-dbfd7b211099)
 
 ## Python-> Visão geral do dataset
+Input
+![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/814dcd92-bbba-4e03-a65e-4a8edddb8bb9)
 
+output
+![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/22ae9ca2-4145-4a41-89ca-d98bbd6d6f15)
