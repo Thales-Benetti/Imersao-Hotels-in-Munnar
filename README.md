@@ -26,5 +26,11 @@ output
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/22ae9ca2-4145-4a41-89ca-d98bbd6d6f15)
 
 ## Info Do dataset
+Nota-se que o DF(DataFrame) é class 'pandas.core.frame.DataFrame'>
 
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/a8cb47fa-266d-49df-b075-dfad398434aa)
+
+## Checando Valores nulos e Outliers
+
+print(hotel_munnar.isnull().sum())
+![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/c711368f-e162-4f60-be9c-24ac357cccdb)
