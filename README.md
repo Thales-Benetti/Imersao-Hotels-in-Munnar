@@ -24,3 +24,7 @@ Input
 
 output
 ![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/22ae9ca2-4145-4a41-89ca-d98bbd6d6f15)
+
+## Info Do dataset
+
+![image](https://github.com/Thales-Benetti/Imersao-Hotels-in-Munnar/assets/126576458/a8cb47fa-266d-49df-b075-dfad398434aa)
